@@ -50,7 +50,7 @@ para descargar nuestro repositorio desde casa realizaremos los siguientes pasos:
 - En la consola escribimos cd CarpetaCompartida (por defecto, cd share)
 - finalmente ejecutamos el comando: git clone https://github.com/MACV-UIS/Semillero_UIS_2019-1.git
 
-
+El repositorio quedará descargado en /Share
 
 
 
