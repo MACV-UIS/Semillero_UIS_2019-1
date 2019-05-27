@@ -2,12 +2,12 @@
 
 <img src="Semillero_2019-I/imgs/Banner_Logo.jpeg" style="width:400px;">
 
-##Instrucciones de configuración
+## Instrucciones de configuración
 Para poder ejecutar experimentos desde casa es necesario instalar VirtualBox, su pack de extensiones y utilidades. Finalmente montar la máquina virtual.
 
-- VirtualBox puede descargarse desde su sitio oficial [aquí](https://www.virtualbox.org/wiki/Downloads)  (Seleccionar Windows Hosts o Linux Hosts en función de el sistema operativo que tenga tu máquina local).
+- VirtualBox puede descargarse desde su sitio oficial [aquí](https://www.virtualbox.org/wiki/Downloads)  (Seleccionar el sistema operativo que esté instalado en tu máquina local).
 
-- virtualbox extension pack puede descargarse desde su sitio oficial [aquí](https://download.virtualbox.org/virtualbox/6.0.8/Oracle_VM_VirtualBox_Extension_Pack-6.0.8.vbox-extpack), para instalarlo se debe tener previamente instalado VirtualBox.
+- Virtualbox extension pack puede descargarse desde su sitio oficial [aquí](https://download.virtualbox.org/virtualbox/6.0.8/Oracle_VM_VirtualBox_Extension_Pack-6.0.8.vbox-extpack), para instalarlo se debe tener previamente instalado VirtualBox.
 
 - La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1KxCUZlXDgyvJzfs6s7EfegMVS1HL_bXq/view?usp=sharing)
 
@@ -21,7 +21,7 @@ Para poder ejecutar experimentos desde casa es necesario instalar VirtualBox, su
 
 - Seleccionamos Archivo/Importar servicio virtualizado
 
-- Damos click sobre la carpeta y buscaremos el directorio donde descargamos nuestra máquina virtual (archivo.ova)
+- Damos click sobre la carpeta y buscaremos el directorio donde descargamos nuestra máquina virtual (datasci-2018b.ova)
 
 Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
 
